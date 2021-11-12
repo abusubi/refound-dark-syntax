@@ -1,14 +1,15 @@
 {
-  "name": "one-dark-syntax",
+  "name": "refound-dark-syntax",
   "theme": "syntax",
-  "version": "1.8.4",
-  "description": "A dark syntax theme",
+  "version": "0.0.0",
+  "description": "A refound dark syntax theme",
   "keywords": [
     "dark",
     "blue",
+    "comments",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/abusubi/refound-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

@@ -1,12 +1,10 @@
-## One Dark Syntax theme
+## Refound Dark Syntax theme
 
-### This package is now a part of the [core Atom repository](https://github.com/atom/atom/tree/master/packages/one-dark-syntax), please direct all issues and pull requests there in the future!
+### Update: Comments are lighter in weight and lighter in color to better differentiate between code and guidance. JetBrains Mono is recommended for this version of the dark-syntax theme for efficient scanning and vertical legibility.
 
-![one-dark-syntax](https://user-images.githubusercontent.com/238929/40553597-5f741518-6000-11e8-9068-70dfc5008b54.png)
+### Original package is part of the [core Atom repository](https://github.com/atom/atom/tree/master/packages/one-dark-syntax), please direct all issues and pull requests there in the future!
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
-
-There is also a matching [UI theme](https://atom.io/themes/one-dark-ui).
+> JetBrains Mono available for free here: [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 ### Install
 
